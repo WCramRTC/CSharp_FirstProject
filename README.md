@@ -40,8 +40,8 @@ In the explorer to the right, you should see two new files appear.
 ## Step 2 - Opening Your Project
 
 There are 2 ways of opening our **`Program.cs`** file. 
-    1. Click on the **`Program.cs`** file
-    2. Type **`Program.cs`** into our terminal.
+1. Click on the **`Program.cs`** file
+2. Type **`Program.cs`** into our terminal.
 
 We're going to do the second.
 
@@ -145,4 +145,26 @@ Then type
 **`Terminal`**
 ```
 Hello, Will!
+```
+
+--- 
+
+## Final Review
+
+Thats it! To review
+
+***Create a new C# console app ( in the current folder )***
+```
+dotnet new console --use-program-main
+```
+
+***Open your Program.cs in Visual Studio Code***
+```
+code Program.cs
+```
+
+***Build and Run your code***
+```
+dotnet build
+dotnet run
 ```
