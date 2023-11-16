@@ -48,7 +48,7 @@ We're going to do the second.
 1. Click on the terminal, and type
 
 ```
-dir
+ls
 ```
 
 ***Result***
