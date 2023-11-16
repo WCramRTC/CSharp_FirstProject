@@ -53,13 +53,12 @@ dir
 
 ***Result***
 ```
-@YourProjectName ➜ /workspaces/CSharp_FirstProject (DevelopmentBranch) $ dir
+@YourProjectName ➜ /workspaces/CSharp_FirstProject (DevelopmentBranch) $ ls
 CSharp_FirstProject.csproj  Program.cs  README.md  obj
 ```
+> **`ls`** is a terminal command for "list." It displays all the files in our current folder. Notice that the files are identical to the Explorer to the left. They are showing us the same thing: the current files in the folder.
 
-> **`dir`** is a terminal command that displays all of the file in our folder. You'll notice the files are the same as in the explorer to the left. They are showing us the same thing, the current files in the folder.
-
-***The next step will open up a new window here, you can get back to this file by clicking on the **`README.md`** tab on the top.***
+***The next step will open up a new window here; you can return to this file by clicking on the **`README.md`** tab on the top.***
 
 2. Type **`code Program.cs`** into the terminal
 
